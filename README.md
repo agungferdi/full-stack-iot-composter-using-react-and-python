@@ -61,8 +61,8 @@ This project implements an intelligent composting system that uses sensor data t
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/smart-composter.git
-cd smart-composter
+git https://github.com/agungferdi/full-stack-iot-composter-using-react-and-python.git
+cd full-stack-iot-composter-using-react-and-python
 ```
 
 #### 2. Set up Environment Files
